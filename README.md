@@ -10,7 +10,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/advicegenerator-with-html-tailwind-and-js-with-adviceslip-api-9Bt5wb-zgt)
 - [Live Site URL](https://gamesdst.github.io/advice-generator/)
 
 ### Built with
@@ -24,6 +24,5 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@GaMeSDST](https://www.frontendmentor.io/profile/GaMeSDST)
+- Twitter - [@GaMeSDST](https://twitter.com/GaMeSDST)

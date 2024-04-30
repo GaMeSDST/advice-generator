@@ -10,7 +10,6 @@ fetch(apiUrl).then(response => {
     }
     return response.json()
 }).then(data => {
-    console.log(data)
     id = data["slip"]["id"]
     advice = data["slip"]["advice"]
     document.querySelector("#id").innerHTML = id;
